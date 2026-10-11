@@ -1,4 +1,4 @@
-```java
+
 import java.awt.FlowLayout;
 import javax.swing.*;
 
@@ -45,4 +45,3 @@ public class SwingDemo {
         f.setVisible(true);
     }
 }
-```
